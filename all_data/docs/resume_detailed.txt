@@ -1,0 +1,16 @@
+Applicant Profile Summary:
+
+Anubhav Jetley is a passionate and skilled data professional, with a strong foundation in data science, data analytics and data engineering technologies. He will complete his Bachelors in Data Engineering Honours from University of Technology Sydney (UTS)in November 2025.
+His work experience includes roles as a Data Analyst Intern at Milton Data, a media and marketing data consultancy firm and AI Research Internship between UTS TRU and Amplitel. At Milton Data, his work was split between developing a web application on behalf of CRA (Commercial Radio Australia), used for major radio network accountants to input their revenue figures, the second half of the internship was around creating the batch data ingestion process and developement of Power BI and Dash Plotly dashboards to visually represent key listening data figures for the major radio networks. 
+At UTS | Amplitel Research Internship, he worked on researching and analysing the relationship between corrosion in mobile towers and their relationship to weather patterns. He was also responsible for building a fingerprint dashboard, showcasing 3D models of 8,000 towers across Australia, each of their key historical weather data, their fall zone risk, their reported corrosion and other defect occurences since inception and many other features. All for better visual insight into the process being undertaken to build health indexes for each tower across Australia. This dashboard will be shown to executives at an event between UTS and Amplitel at the UTS Data Arena.
+He has also looked to expand and grow his experience, knowledge and skills within Machine Learning, Data Analysis and Data Engineering, working on projects such as analysing the after effects of the LA 2025 Wildfires, extracting, collating and analysing multiple areas of data such as Insurance costs, socio-economic data, historical wildfire incidents, FAIR Plan growth and share of total policy, all with the goal of identifying the most distressed areas and providing evidence-based insights to guide targeted insurance policy reforms.
+Anubhav has also worked extensively on data engineering projects, using cloud based operations and environments, such as AWS, Azure and GCP. He has built real-time, batch-processing pipelines and MLOps pipelines working with technologies such as Docker, Airflow, Kafka, Spark, DBT, RedPanda, Pinot, Snowflake, Redshift, S3 and many more.
+
+Python programming experience : 4 years
+SQL experience : 3 years
+Data Engineering experience: 2 years
+Databricks experience : 2 years
+Airflow Experience: 2 years
+AWS experience: 2 years
+Azure experience: 1 years
+GCP experience: 1 year
